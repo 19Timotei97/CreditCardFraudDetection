@@ -1,0 +1,16 @@
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\bin\Release\CreditCardFraudDet.exe.config
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\bin\Release\CreditCardFraudDet.exe
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\bin\Release\CreditCardFraudDet.pdb
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.csprojAssemblyReference.cache
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.Start.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.Properties.Resources.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.csproj.GenerateResource.cache
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.csproj.CoreCompileInputs.cache
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.exe
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.pdb
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.DecisionTreeBuilt.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.DecisionTreePrunedF1.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.DecisionTreePrunedAROC.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.RandomForestMiddleAROC.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.RandomForestMiddleF1.resources
+F:\Facultate\TCRI_Project\Real Project\CreditCardFraudDet\CreditCardFraudDet\obj\Release\CreditCardFraudDet.RandomForestMiddleTree.resources
